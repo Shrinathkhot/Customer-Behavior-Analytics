@@ -3,7 +3,7 @@ Customer Behavior Analytics is a retail data project that cleans and analyzes Ka
 
 <!DOCTYPE html>
 <html lang="en">
-<!-- <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Customer Behavior Analytics Project</title>
@@ -67,7 +67,7 @@ Customer Behavior Analytics is a retail data project that cleans and analyzes Ka
             border: 2px solid #ccc;
             margin-top: 10px;
         }
-    </style> -->
+    </style>
 </head>
 <body>
     <div class="container">
